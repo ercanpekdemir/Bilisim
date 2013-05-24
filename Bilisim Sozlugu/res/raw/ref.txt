@@ -1,0 +1,920 @@
+﻿a posteriori distrubition % sonsal dağılım. bir parametre veya durum kestirim probleminde, parametrelerin veya sistemin durumlarını ölçüm ve gözlemlerden sonra elde edilen olasılık yoğunluk işlevi.
+sonsal dağılım % a posteriori distrubition 
+a priori distribution % önsel dağılım. Bir parametre / durum kestirim probleminde parametrelerin / durumların herhangi bir ölçüm ya da gözlem yapılmadan önce atanmış olasılık yoğunluk işlevi.
+önsel dağılım % a priori distribution
+A-weighting % A türü ağırlıklandırma. Akustikte ses gürlüğünün ölçümünde kullanılan sıklık ağırlıklandırma eğrisi.
+A türü ağırlıklandırma % A-weighting
+abbreviadet address calling % kısaltmayla arama. Telefonda olağan numara yerine daha az basamak içeren bir numarayla arama.
+kısaltmayla arama % abbreviadet address calling
+abend % olağandışı sonlanma. Bellek yetmezliği ya da sunucu bilgisayarın çökmesi sonucu kullanıcı istemi dışında bir programın durdurulması ve bunla ilgili alınan mesaj.
+olağandışı sonlanma % abend
+abend code % olağandışı sonlanma kodu.
+olağandışı sonlanma kodu % abend code
+aberration % sapınç. Bir merceğin, geometrik yapısı ve/ya kırma indisinin renge bağlılığından dolayı odağının yaygınlaşmasından ötürü net görüntü vermemesi.
+sapınç % aberration
+ablation (laser) % lazerle kazıma. Lazerle ince metal bir filme delikler yakarak elde edilen optik bellek tekniği.
+lazerle kazıma % ablation (laser)
+abnormal ending % bkz. abend
+abnormal reflection % olağandışı yansıma. İyonosfer katmanının dönüşül (kritik) frekansının üstündeki telsiz dalgalarının yansıması. 
+olağandışı yansıma % abnormal reflection
+abnormally polarized wave % kısmi dikey polarmalı dalga.
+kısmi dikey polarmalı dalga % abnormally polarized wave
+abort to % yarıda bırakmak, yarıda kesmek. Donanım ve yazılım aksamından ötürü bir işlemi, yordamı, eylemi, çoğunlukla tanılayıcı bilgi de verilmeden, yarıda kesme.
+yarıda bırakmak, yarıda kesmek % abort to 
+abort procedure % yarıda bırakma yordamı. bir veri iletimini, daha sonra yeniden başlamak olasılığını göz önünde tutarak, yarıda kesme yordamı.
+yarıda bırakma yordamı % abort procedure
+abort sequence % yarıda bırakma dizisi. Veri iletimini erken sonlandırmada kullanılan dizi.
+yarıda bırakma dizisi % abort sequence
+aborted connection % yarıda kalan bağlantı.Yerleşik yordamlara göre gerçekleşemeyen bir bağlantının çözülmesi.
+yarıda kalan bağlantı % aborted connection
+absentee service % yerinde bulunmayan abone hizmeti. 
+yerinde bulunmayan abone hizmeti % absentee service
+absolute % mutlak, salt. Başka bir şeyle karşılaştırılarak ölçülemeyen.
+mutlak, salt % absolute
+absolute address % mutlak adres. Bir bilgisayar dilinde bir bellek konumunun ya da bir aygıtın yerini ara bir dayanağa başvurmadan belirten adres.
+mutlak adres % absolute address
+absolute code % mutlak kod. Bütün adreslerin mutlak adres olduğu program kodu.
+mutlak kod % absolute code
+absolute coding % mutlak kodlama. Mutlak adresli komutlar kullanarak yapılan program kodlama.
+mutlak kodlama % absolute coding
+B-to-B commerce % firmadan firmaya ticaret. Ticari kuruluşlar arasındaki ticari hareketlerin bütünü.
+firmadan firmaya ticaret % B%to%B commerce
+back % arka,ters,sırt.
+arka,ters,sırt % back 
+back beam % art huzme. Uzaklaşmakta olan bir uçağın yayıcı antenden aldığı ışın.
+artz huzme % back beam
+back channel % ters yönde kanal, korsan kanalı. Bilgi güvenliği saldırılarında, korsandan sisteme değil de güvenliği tehdit altındaki sistemin saldırma niyetindeki korsan yönüne bir kanal oluşturması.
+ters yönde kanal, korsan kanalı % back channel 
+back door % gizli kapı. Başlangıçta sistem geliştirme sürecinde kolaylık sağlayan ve sistem koruyucu önlemlerin etrafından dolanan gizli yazılım mekanizması.
+gizli kapı % back door
+back-end application % sunucu bilgisayar uygulaması. Programı sunucu bilgisayarda çalıştırılan uygulama.
+sunucu bilgisayar uygulaması % back-end application
+back-end computer % omurga bilgisayar, sunucu bilgisayar. Arkaplanda dosya yönetimi ve veritabanı işlerini yürüten, güçlü ama kullanıcıya dost olmayan bir bilgisayar.
+omurga bilgisayar, sunucu bilgisayar % back-end computer
+back-end program % sunucu bilgisayar programı. İstemci / sunucu uygulamalarında sunucu bilgisayarında çalıştırılan program.
+sunucu bilgisayar programı % back-end program
+back-off % geri çekme. 1) Mikrodalga vericilerinde daha doğrusal bir davranış elde edebilmek için çıkış gücünün azaltılması. 2) Paket iletişiminde yeni bir paketin iletiminden önce bekleme, geciktirme.
+geri çekme % back-off
+back office application % yönetsel uygulama, gişe arkası uygulama. Fatura, tahsilat gibi doğrudan müşteriyi ilgilendirmeyen yönetime ait bilgi işlemeyi yürüten program.
+yönetsel uygulama, gişe arkası uygulama % back office application
+back office system % bkz. back office application
+back scattering % geri saçılım. Gelen dalga ile saçılan dalganın yayılım doğrultularının birbirinin tersi olduğu saçılım.
+geri saçılım % back scattering
+back store % mağaza yönetim bölümü. Ticari bir ürün sitesinin siparişleri karşılama, ödemeleri gerçekleştirme gibi etkinliklerini sürdürdüğü arkaplandaki işleri. 
+mağaza yönetim bölümü % back store
+back-to-back connection % sırt sırta bağlanma. İki aygıtın aralarında başka bir devre ya da ağ bulunmadan birinin çıktısının öbürünün çözümleyeceği şekilde bağlanması.
+sırt sırta bağlanma % back-to-back connection
+back-to-back testing % sırt sırta sınama. 1) Biri düzeltici diğeri evirici iki devreyi peş peşe bağlayıp sınama. 2) İki yazılım sürümünü ynı girdilerle çalıştırıp çıktılarını karşılaştırma. 
+sırt sırta sınama % back-to-back testing
+backbone - ağ omurgası. Yerel ağları birbirine bağlantılayan ve geniş bir coğrafi alanı kaplayan hızlı iletişim altyapısı.
+ağ omurgası % backbone
+backbone cable % dikey kablo, omurga kablo. Bir binanın katlarındaki ağ dağıtıcılarını birbirine bağlayan ve dikeyine tırmanan kablo.
+dikey kablo, omurga kablo % backbone cable
+backbone network % omurga ağ. Bir bilişim sisteminde erişim ağının dışında kalan ve geniş alan içinde ana trafiği taşıyan ağ.
+omurga ağ % backbone network
+backbone routing service % omurga yönlendirme hizmeti.
+omurga yönlendirme hizmeti % backbone routing service
+cable % kablo. Birbirlerinden yalıtılmış ve ortak koruyucu bir kılıf içine alınmış, belirli esnekliği olan, iletkenler grubu.
+kablo % cable 
+cable analyzer % bkz. cable tester
+cable armor % kablo zırhı. Kablonun  mekanik korunmasına yönelik metal kılıf.
+kablo zırhı % cable armor
+cable capacitance % kablo sığası. Bir kablodaki tel çiftlerinin sayısı.
+kablo sığası % cable capacitance
+cable distribution point % kablo dağıtım noktası.
+kablo dağıtım noktası % cable distribution point
+cable duct % kablo oluğu, kondüvi. Telefon ve diğer kabloların geçtiği plastikten ya da lifli betondan yapılmış oluk.
+kablo oluğu, kondüvi % cable duct
+cable fittings % rakor, kablo aksesuarı.
+rakor, kablo aksesuarı % cable fittings
+cable head % kablo dağıtım başı. Abonelere kablo üzerinden televizyon yayını gibi hizmetleri dağıtan ağın başındaki terminali.
+kablo dağıtım başı % cable head
+cable installation % bkz. cable network
+cable insulator % kablo zarfı.
+kablo zarfı % cable insulator
+cable joint % kablo eki. İki kablonun gerek iletkenlerinin gerekse koruyucu kılıfının bağlanması.
+kablo eki % cable joint
+cable layer % kablo döşeyici. Deniz altında kablo döşeyen makine.
+kablo döşeyici % cable layer
+cable loss % kablo kaybı. Eşeksenel kablo üzerindeki radyı frekansındaki işaretlerin uğradıkları güç kaybı.
+kablo kaybı % cable loss
+cable management software % kablo yönetim yazılımı. Bir kablo sisteminin işlemesinin gözcülüğünü yapan yazılım.
+kablo yönetim yazılımı % cable management software
+cable manager % bkz. cable management software
+cable modem % kablo modemi. Eşeksenel ya da optik lif kablolar üzerinde sayısal veri iletimini sağlayan modem.
+kablo modemi % cable modem
+cable network % kablo ağı. Bir kuruluşun iletişim gereksinimlerini karşılamak üzere döşenmiş kablolar ve ilgili teleiletişim donatımı.
+kablo ağı % cable network
+cable shield % kablo ekranı. İletişim ve kontrol uygulamalarında yüzeyinin her bir noktasının toprak potansiyelinde olmasını sağlayacak şekilde imal edilmiş metal tellerden, şeritlerden veya yassı levhalardan yapılmış koruyucu ve iletken kılıf.
+kablo ekranı % cable shield
+cable software % kablo yönetim yazılımı. Bir kablo sisteminin işlemesini gözeten yazılım.
+kablo yönetim yazılımı % cable software
+cable splicer % kablo kaynak makinesi.
+kablo kaynak makinesi % cable splicer
+daemon % hızır. 1) Bilgi tabanlarında belirli değişiklikler olur olmaz otomatik olarak devreye giren yordam ya da bilgi işlemi. 2) UNIX ortamında kullanıcının müdahalesini gerektirmeden devreye giren, arka planda çalışan bakım programları.
+hızır % daemon
+daisy-chain connection % zincirleme bağlantı.
+zincirleme bağlantı % daisy-chain connection
+daisy chaining % zincirleme bağlantı, ilmekleme. 1) Birden fazla donanımın seri olarak kablolarla bağlanması. 2) Bir veriyolu üzerinde bulunan kartlara yayılım yönündeki sırayla iletim hakkının verilmesi. 
+zincirleme bağlantı, ilmekleme % daisy chaining
+damped current % sönümlü akım.
+sönümlü akım % damped current
+damped frequency % sönümlü frekans. Periyodik salınımlı bir dalga ile uyarılmayan doğrusal bir sistemin görünün frekansı.
+sönümlü frekans % damped frequency
+damped harmonic system % sönümlü salınımlı sistem. Hareketi ikinci dereceden sabit katsayılı türevsel bir denklem ile ifade edilen fiziksel sistem.
+sönümlü salınımlı sistem % damped harmonic system
+damped oscillation % sönümlü salınım. Zamanın bir işlevi olarak genliğinin azaldığı salınım.
+sönümlü salınım % damped oscillation
+damper winding % söndürücü sargı. Almaşık akım makinelerinde hız düzensizliklerini ya da dolanmayı önleyici sargı.
+söndürücü sargı % damper winding
+damping % sönüm. Bir salınımın genliğinin giderek azalması.
+sönüm % damping
+damping factor % sönüm katsayısı. İkinci dereceden doğrısal bir sistemin serbest salınımlarından art arda ve ters işaretli olan iki tanesinden küçüğünün büyüğüne oranı.
+sönüm katsayısı % damping factor
+damping ratio % sönüm oranı. Bir sistemin sönüm katsayısının, o dizgeye özgü kritik sönüm katsayısına oranı.
+sönüm oranı % damping ratio
+damping torque % söndürme burusu. Devinen öğenin istenilmeyen salınımlarını azaltan buru.
+söndürme burusu % damping torque
+dark background % karanlık arkaplan. Sinema ve televizyonda arkaplanın ışıksız olması. 
+karanlık arkaplan % dark background
+dark current % karanlık akımı. Bir elektron tüpü veya bir fotoselin dış devresinden gelen radyasyonun bulunmamasına rağmen akan akım.
+karanlık akımı % dark current
+dark resistance % karanlık direnci. Herhangi bir aydınlatma olmadığında ışığa duyarlı aygıtın üzerindeki gerilimin karanlık akımına oranı.
+karanlık direnci % dark resistance
+dark spot % karanlık nokta. Yeterince elektromanyetik ışınım almayan, dolayısıyla alıcıların iyi çalışmadığı yer.
+karanlık nokta % dark spot
+dark vision % karanlıkta görme.
+karanlıkta görme % dark vision
+dash % kısa çizgi, tire. Kısa bir doğru parçasından oluşan grafik öğe.
+Kısa çizgi, tire. % dash
+dash-dot line % noktalı tireli çizgi.
+noktalı tireli çizgi % dash-dot line
+data % veri. 1) Bir çözüme ulaşmak için işlenebilir duruma getirilmiş gözlemler, ölçümler vb. 2) Bilgisayar için işlenebilir duruma getirilmiş sayısal ya da sayısal olmayan nicelikler. 3) Olgu, kavram ya da komutların, iletişim, yorum ve işlem için elverişli biçimsel ve uzlaşımsal bir gösterimi.
+veri % data
+e-business % elektronik ticaret, Internet'te ticaret. Ticari etkinliklerin Internet teknolojisi ile yürütülmesi.
+elektronik ticaret, Internet'te ticaret % e-business
+e-business enabler % elektronik ticaret kotarıcı. İş planlarını ve elektronik ticareti ileri Internet teknolojileri ile bağdaştırıp kolaylaştıran ve bu hizmeti sunan kuruluş.
+elektronik ticaret kotarıcı % e-business
+e-commerce % elektronik ticaret. Elektronik yazışma, hizmet ve malların Internet üzerinden sunuş ve satışı gibi etkinliklerin bilişim ağı üzerinde gerçekleştiği ticaret şekli.
+elektronik ticaret % e-commerce
+E layer % E katmanı. Radyo dalga yayılımında serbest elektron sayısının en fazla olduığu ve gün boyunca barolan E bölgesi katmanı.
+E katmanı % E layer
+e-mail, to % elektronik postayla yollamak.
+elektronik postayla yollamak - e-mail, to
+e-mail % elektronik posta. Bilgisayar uçbirimlerinde hazırlanan ve bilgisayar ağları üzerinden iletilen mesajlar.
+elektronik posta % e-mail
+e-mail account % elektronik posta hesabı. Aboneye, elektronik posta sunucusuna ya da çevrimiçi bir hizmete erişmesine olanak tanıyan hesap.
+elektronik posta hesabı % e-mail account
+e-mail adress % elektronik posta adresi. Internetteki elektornik posta kutusunun adresi.
+Elektronik posta adresi % e-mail adress
+e-mail attachment % posta ilişiği. İletilen mesaja iliştirilen belge.
+posta ilişiği % e-mail attachment
+e-mail message % elektronik postalama listesi.
+elektronik postalama listesi % e-mail message
+e-mailing list % elektronik postalama listesi. Elektronik posta adreslerini ile sahiplerinin ad ve soyadlarının tek bir ad altında derlenmiş listesi.
+elektronik postalama listesi % e-mailing list
+E region % E bölgesi. İyonosferin yerden 90 ilâ 150 kilometre yüksekliğindeki katmanı.
+E bölgesi % E region
+e-supply business % elektronik tedarik işi. Bir kuruluşta tedarik işinin elektırnik ortamda Internet aracılığı ile yürütülmesi. 
+elektronik tedarik işi % e-supply business
+early-failure period % alıştırma dönemi. Bir sistemin ya da yazılımın yaşam çevriminin ilk aşamalarında kusurların daha sık ortaya çıktığı ve ayaklanarak, düzeltilerek başarımın iyileştirilmeye çalışılan ilk dönemi.
+alıştırma dönemi % early-failure period
+early-warning radar % erken uyarı radarı. Uzaktaki hedefleri ve uçakları saptamak üzere kurulmuş radar.
+erken uyarı radarı % early-warning radar
+earphone % kulaklık. Kulağa yerleştirilen ve radyo, teyp gibi bir alete bağlanan elektroakustik dönüştürücü.
+kulaklık % earphone
+earphone plug % kulaklık fişi. Kulaklık birimini radyo, teyp gibi alete bağlayan priz.
+kulaklık fişi % earphone plug
+earth % toprak. Elektrik akımının devreyi tamamlamasını sağlayan toprak hattı.
+toprak % earth
+earth antenna % yer anteni. Bir uydu iletişim sisteminde yeryüzünde duran alıcı istasyonun anteni.
+yer anteni % eart antenna
+earth current % toprak akımı. Bir iletken ile toprak arasındaki kaçak akımların ve sığal akımların tümü.
+toprak akımı % earth current
+F-series recommendations % F-serisi tavsiyeler. Uluslararası Teleiletişim Örgütünün faks, temetin,videometine ilişkin tavsiyeleri.
+F-serisi tavsiyeler % F-series recommendations
+F-stop % F sayısı. Fotoğrafçılıkta bir merceğin geçirdiği ışık miktarını belirleyen sayı.
+F sayısı % F-stop
+face angle % yüz açısı. Bir çokyüzlü geometrik şeklin bir yüzü üzerinde ardaşık iki kenarın oluşturduğu açı.
+yüz açısı % face angle
+face authentication % yüzden kimlik tanıma. Yüzün kamera görüntülerinin bilgisayar tarafından işlenerek kişinin kimliğin tanınması.
+yüzden kimlik tanıma % face authentication
+face value % nominal değer. 
+nominal değer % face value 
+faceplate % önyüz. bir katot ışınlı tüpün mahfazasının görüntü izlenen geniş ve saydam ucu.
+önyüz % faceplate
+facility % hizmet; kolaylık; olanak. 1) hizmet. İşletim sistemi tarafından, belirli noktalarda durdurup kontrol etmek ve sonra yeniden başlatmak örneğinde olduğu gibi, yerine getirilen bir hizmet. 2) kolaylık. Bir veri işleme sistemini kullanmanın rahatlığı. 3) olanak. Bir işletmedeki yetenek ya da bu yeteneği doğuran araçlar.
+hizmet; kolaylık; olanak - facility
+facsimile % faks, belgegeçer. Her türlü el yazısı basılı ya da grafik belgesinin, bu belgelerin bulunduğu yerden farklı bir yerde elektronik olarak yeniden üretilmesi.
+faks, belgegeçer % facsimile
+fact % olgu. Gözlenebilir ya da görgül ampirik işletmelerle kavranabilir olan ve kendine özgü bir örüntüsü bulunan olay.
+olgu % fact
+factor % çarpan; etmen, faktör. 1) çarpan. Bir çarpım işleminde işlenen durumundaki sayı ya da nicelik. 2) Bir niceliği kalansız bölen nicelik. 3) etmen, faktör. Bir olayın olmasına yol açan neden.
+çarpan; etmen, faktör % factor
+factor analysis % etmen çözümlemesi. Etmen denen bağımsız değişkenler ile bunların karışı olarak gözlenen değişkenler arasındaki ilintileri ortaya çıkarmaya yönelik analiz. 
+etmen çözümlemesi % factor analysis
+factor of merit % kalite faktörü. 1) Elektrikte tepkin gücün etkin güce oranı. 2) Bazı devre elemanlarında giriş dalgasının her bir dönemde depolanan en büyük enerji miktarının yitirilen enerjiye oranı.
+kalite faktörü % factor of merit
+factorial % çarpınım. Sıfır için 1, artı doğal sayılar için, N! = Nx(N-1)x...2x1 olarak tanımlanan doğal sayı.
+çarpınım % factorial
+factorial experiment design - etmensel deney tasarımı. En az iki düzey içeren bir ya da birden çok etmenin etkisini inceleyen deney tasarımı.
+etmensel deney tasarımı % factorial experiment design 
+factorization % çarpanlara ayırma. Bir niceliğin çarpanlarını bulma eylemi.
+çarpanlara ayırma % factorization
+factual % olgusal. Olguya, olgusal durumlara ilişkin olan.
+olgusal % factual
+faculty % yeti. İnsanda bulunan bir şeyi yapabilme gücü, örneğin düşünme yetisi, meleke.
+yeti % faculty
+fade % derece derece ölgünleşme; derece derece aydınlanma. Siema ve televizyonda sahnenin yumuşak bir geçişle kararması ya da aydınlanması.
+derece derece ölgünleşme; derece derece aydınlanma % fade
+fade-in % derece derece açılma. Video ve sinemada görüntünün seçilebilirliğinin yavaş yavaş artması ya da sahnenin aydınlanması.
+derece derece açılma % fade-in
+fade-over % zincirleme geçiş. Video ve sinemada bir sahne kararırken yeni bir sahnenin aydınlanması.
+zincirleme geçiş % fade-over
+g-series recommendations % G-serisi tavsiyeler. Uluslararası Teleiletişim Örgütünün sayısal kodlama, çoğullama ve iletime özgü tavsiyeleri.
+g-serisi tavsiyeler % G-series recommendations
+gain - kazanç. Sinüzoidal kalıcı durumdaki doğrusal bir sistemin çıktısının genliğinin girdisininkine oranı.
+kazanç % gain
+gain adjustment % kazanç ayarı. Bir elektronik devrede, değişen koşullara göre, çıkış gücünün düzenlenmesi. 
+kazanç uyarı % gain adjustment
+gain control % güç ayarı.
+güç ayarı % gain control 
+gain function % kazanç işlevi. Bir antenin çeşitli yönlerdeki göreli ışıma gücü.
+kazanç işlevi % gain function
+gain margin % kazanç payı. Mutlak kararlı bir geribeslemeli sistemde, faz açısının 180 dereceye ulaştığı frekans açık döngü kazancı değerinin tersi. açık döngü faz açısı -180 derece olduğunda, aktarım kazancının 0 dB türünden ek kazanç.
+kazanç payı % gain margin
+gain sensitivity % kazanç duyarlılığı. Sistem parametrelerinden birindeki bir değişikliğin kazançta yol açtığı değişiklik.
+kazanç duyarlılığı % gain sensitivity
+galvanometer % miniakımölçer. Çok küçük akımları ölçmeye yarayan alet. galvanometre.
+miniakımölçer % galvanometer
+game % oyun. n kişilik bir oyun, a) n tane oyuncu, b) k tane kat, c) her oyuncunun seçenek kümesi, d) oyun durumlarının tanımlandığı bir durum uzayı, e) her oyuncu için bir gözlem yordamı, f) her oyuncu için bilgi kümeleri, g) her oyuncu için bir strateji ve h) her oyuncu için bir ceza işlevi içerir.
+game controller % oyun kontrol kartı.
+oyun kontrol kartı % game controller
+game editor % oyun editörü. Çoğulortam oyun programlarının hazırlanmasını kolaylaştıran yazılım.
+oyun editörü % game editor
+game theory % oyun kuramı. Bir stratejiye sahip bir rakip karşısında en iyi strateji seçmenin matematiksel kuramı.
+oyun kuramı % game theory
+gamma correction % gamma düzeltimi. Televizyonda çıkış ışıklılığı ile giriş gerilimi arasındaki kuvvet ilişkisinin üstü.
+gamma düzeltimi % gamma correction
+gap % boş aralık. Mantetik bir ortamda yapılan kayıtta iki blok arasındaki boşluk.
+boş aralık % gap
+gap character % aralık karakteri. Teknik nedenlerle bir bilgisayar sözcüğünde yer alan fakat veri gösterim değeri bulunmayan karakter.
+aralık karakteri % gap character
+gap width % aralık genişliği. Okuma / yazma kafası ile kayıt ortamının yüzeyi arasındaki uzaklık.
+aralık genişliği % gap width
+garbage % atık. Bir bilgi işleme ortamında geçerli bir programın ve veya veri kümesinin parçası olmayan veri ya da program parçası, örneğin atık toplama.
+atık % garbage
+garbage collection % bilgi atıklarını temizleme. Belleğin kullanılmayan alanlarını belirleme işi.
+bilgi atıklarını temizleme % garbahe collection
+garbage file % atık dosya.
+atık dosya % garbage file
+garbage in garbage out % döküntü girer döküntü çıkar.
+döküntü girer döküntü çıkar % garbage in garbage out
+h-network H devresi. Beş dallı olup, ikisi bir giriş çıkış ucu arasında seri bağlanmış, diğer ikisi bir başka giriş çıkış ucu arasında seri bağlanmış, beşincisi de ilk iki seri bağlantıların orta noktalarına bağlanmış öğelerinden oluşan devre.
+h devresi % H-network
+hack % kuralsız becerilen ürün. Yazılım ve donanım kurallarını göz önüne almadan gerçekleştirilen kaba ve ilkell ürün.
+kuralsız becerilen ürün % hack
+hacker % korsan; bilgisayar tutkunu. 1) korsan. Bilgisini gizli bilgi kaynaklarına ulaşmak , bilgisayar ve ağlar üzerinde yasal olmayan işler yapmak üzere kullanan bilgisayar tutkunu. 2) bilgisayar tutkunu. Kendini bilgisayar ve ağ tekniklerine adamış, meraklı, orijinal düşünce, espri, tasarım getirebilen kişi.
+korsan; bilgisayar tutkunu % hacker 
+halation % hale. Beneğin çevresinde, benekten çıkan ışığın, katot ışınlı tüpte ön ve arka yüzeylerden yansıma sonucu oluşan ve beneğe göre daha az ışıklı olan bir veya daha çok, halka biçimli bölge.
+hale % halation
+half adder % yarı toplayıcı. Elde terimini göz önüne almadan ikili büyüklükleri toplayan donanım.
+yarı toplayıcı % half adder
+half cycle % yarı çevrim. Periyodik bir dalganın yarı periyodu.
+yarı çevrim % half cycle
+half duplex % yarı çift yönlü. İki nokta arasında bilginin aynı anda olmamak koşuluyla her iki yönde iletilebilmesine değin.
+yarı çift yönlü % half duplex
+half-duplex channel % yarı çift yönlü kanal. 
+yarı çift yönlü kanal % half-duplex channel
+half line % yarı doğru. Doğrunun bir noktasının belirli bir yanında yer alan noktalar kümesi.
+yarı doğru % half line
+half-power bandwidth % yarı güçteki bant genişliği. Bir spektrumda gücün doruk değerinin yarısına düştüğü ilk frekans değerine göre hesaplanan bant genişliği.
+yarı güçteki bant genişliği % half-power bandwidth
+half subtractor % yarı çıkarıcı. Biri çıkan, diğeri çıkarılan ikişi sayıyı gösteren iki girişi olup, biri farkı, diğeri ise ödünç alınanı gösteren katışımsal elektronik devre. 
+yarı çıkarıcı % half subtractor
+half-wave dipole % yarım dalga dipolu. Elektriksel uzunluğu yarım dalga boyunda olan dipol.
+yarım dalga dipolu % half-wave dipole
+half-wave rectifier % yarım dalgalı doğrultucu. Dalgalı akım girdisinin,çıktıda artı ya da eksi kutuplu yarıçevrimlerinialarak doğrultan aygıt.
+yarım dalgalı doğrultucu % half-wave rectifier
+half-word % yarım sözcük. Bir bilgisayar sözcüğünün yarı uzunluğunda olup işlemci tarafından tam bir sözcük gibi işlenen sözcük.
+yarım sözcük % half-word 
+halftoning % yarı tonlama. Gri seviyeleri, iki düzeyli piksel topakları olarak gösteren yöntem.
+yarı tonlama % halftoning
+hall effect % hall etkisi. Bir iletkende akım yoğunluğu yönüne dik bir mıknatıslanmanın yol açtığı birbiçimli olmayan elektirk üretimi.
+hall etkisi % hall effect
+hamming distance % Hamming uzaklığı. İki sayısal sözcük arasında farklı olan bitlerin sayısı olarak belirlenen uzaklık ölçütü.
+hamming uzaklığı % hamming distance
+hand-held % elde tutulan, taşınabilir.
+elde tutulan, taşınabilir % hand-held
+hand-held computer % cep bilgisayarı, avuç bilgisayarı. Kişisel gereksinimleri karşılayan, kısıtlı bir işletim sistemi ve klavyesi olan çok küçük boyutlu bilgisayar.
+cep bilgisayarı, avuç bilgisayarı % hand-held computer
+hand-over % istasyon değiştirme, baz değiştirme. Gözesel iletişim sistemlerinde gezgin bir kullanıcının iletişim bağlantısının bir istasyondan diğer istasyona aktarılması. Bir gezgin radyo iletişim ağı gözesi sınırlarını aştığında yönetimlerinin bir göze üssünden diğer göze üssüne geçirilmesi.
+istasyon değiştirme, baz değiştirme % hand-over
+icon % simge, ikon. Ekranda gösterilen ve tıklandığında belirli bir yazılım uygulamasını çalıştıran grafik simge.
+simge, ikon % icon
+iconic interface % simge tabanlı arayüz. Yapıkacak işlerin ilişkin simgelerine tıklayarak gerçekleştirildiği bilgisayar arayüzü. 
+simge tabanlı arayüz % iconic interface
+iconize % simgeleştirmek. Bir uygulama penceresini bir uygulama simgesi haline küçültmek.
+simgeleştirmek % iconize
+ideal attenuator % ideal zayıflatıcı. Çıkış gücünün giriş gücüden küçük olduğu, ve çıkış ve giriş akım ya da gerilimlerinin oranının sabit olduğu iki kapılı devre. 
+ideal zayıflatıcı % ideal attenuator
+ideal capatior % ideal sığaç. Anlık akımın, gerilimin zaman türevine bağlı olduğu ideal iki uçlu devre öğesi. 
+ideal sığaç % ideal capatior
+ideal diode % ideal diyot. Akımın bir yönünde sıfır direnisi, ters yönde de sonsuz direnisi olan iki uçlu ideal devre öğesi. 
+ideal diyot % ideal diode
+ideal filter % ideal süzgeç. İstenen aralıklardaki frekans bileşenlerini cılızlatmadan geçirip diğer frekans bileşenlerini tümüyle söndüren süzgeç.
+ideal süzgeç % ideal filter
+ideal inductor % ideal indükleç. Anlık gerilimin akımın zaman türevine eşit olduğu ideal iki kapılı devre öğesi, ideal.
+ideal indükleç % ideal inductor
+ideal transformer % ideal trafo. Bir kapısındaki anlık gerilimi diğer kapısındaki anlık gerilime ortantılı olan ve anlık gücün korunduğu karşılıklı edilgen iki kapılı devre.
+ideal trafo % ideal transformer
+ideal value % İdeal değer. Eldeki gerçek dizgeye beslenen kontrol işaretinin aynısı, yetkin başka bir dizgeye verildiğinde bu düzgedeki belirli bir değişkenin aldığı değer.
+ideal değer % ideal value
+idempotency % birim güçlülük, nötrlük.
+birim güçlülük,nötrlük % idempotency
+idempotent element % birim güçlü öğe. Bir o işleci için eOe = e ilişkisini sağlayan öğe.
+birim güçlü öğe % idempotent element
+idempotent sets % birim güçlü kümeler. Birebir eşlenebilen kümeler.
+birim güçlü kümeler. idempotent sets
+identical % özdeş. Biçimleri, değerleri ya da işlevleri eş olan.
+özdeş % identical
+identification % tanılama; tanıma; tanıtma. 1) tanılama. Hedef tanımada, istatistiksel sınıflandırmada birçok olası seçenekten birini tanıma, teşhis. 2) tanıma. Bilgisayar güvenliğinde kişiye, donatıma, örrgüte özgü özellikleri aracılığı ile tanıması. 3) tanıtma. Örneğin tanıtma karakteri, tanıtma yordamı.
+tanılama; tanıma; tanıtma % identification
+identification friend or foe % dost düşman ayırımı. 
+dost düşman ayırımı % identification friend or foe
+identifier % kimlik, tanıtıcı. Bir veri öğesini, kimileyin de özellikleri belirtmede kullanılan bir ya da daha çok karakter.
+kimlik, tanıtıcı % identifier
+identity % özdeşlik. Değişkenlerin bütün değerleri için sağlanan eşitlik.
+özdeşlik % identity
+identity element % birim öğe. Bir matematiksel işlemin sonucunda, giriş değerinin aynı kalmasına yol açan nesne.
+birim öğe % identity element
+identity function % özdeşlik işlevi. Bir E kümesin. E'nin üzerine getiren birebir örten gönderim.
+özdeşlik işlevi % identity function
+jack % dişi priz, jak. Bir devrenin tel ya da tellerinin bağnalabileceği ve erkek fişin sokulduğu priz.
+dişi priz, jak % jack
+jacket % kılıf, ceket. 1) Kablolarda genel olarak basınç uygulanarak çekilen metal ya da metal olmayan birörnek ve kesintisiz tüp biçimli örtü. 2) Optik iletkenlerde koruyucu en dış kılıf.
+kılıf,ceket % jacket
+jagget % kırık, çentikli.
+kırık, çentikli % jagget
+jammer % elektronik boğucu. Elektronik savaşta boğma işaretlerini yaymakla yükümlü verici.
+elektronik boğucu % jammer
+jamming % boğma. Bilgisayar güvenliğinde sistemin normal işlemesini engellemek üzere gürültü ve işaretler yollamak.
+boğma % jamming
+jargon % meslek argosu. Dar bir meslek grubu tarafından kullanılan deyim ve terimler.
+meslek argosu % jargon
+java browser % Java tarayacısı. İşletim sisteminden bağımsız olarak çalışabilen Java uygulamalarını getirip yürütme koyan Internet gezgini program.
+Java tarayıcısı % Java browser
+Java development tool % Java geliştirme aracı. Java dilinde yazılan uygulama programlarını geliştirmeye elverişli araçlar.
+Java geliştirme aracı % Java development
+Java-enabled web browser % bkz. Java browser
+Java interface % Java arayüzü. Uygulama konabilen Java yöntemleri topluluğu.
+Java arayüzü % Java interface
+Java language % Java dili. İşletim sisteminden bağımsız olarak bilgisayarlarda çalışabilen, Internet ortamındaki uygulamaları gerçekleştirmeye elverişli, nesneye yönelik programlama dili.
+Java dili % Java language
+Java terminal % Java uçbirimi. Yerel bir ağ ya da Internet üzerinden Java programları ile arama ve bilgi işleme yapabilen bir mikrodevre ile donatılmış terminal.
+Java uçbirimi % Java terminal
+jerk % silkme. İvmenin değişim hızı, yer değiştirmenin zamana göre üçüncü türevi.
+Silkme % jerk
+jet recorder % püskürtmeli kayıtçı. Noktasal mürekkep püskürtüşüyle yakıtın yapıldığı kayıt aleti. 
+püskürtmeli kayıtçı % jet recorder
+jitter % seğirme. Sayısal iletişimde bir zaman dayanağının doğru değerinden göterdiği rasgele sapmalar. Seğirme genellikle bir simge süresine göre küçük boyutludur.
+seğirme % jitter
+job % iş. Bilgisayar için bir çalışma bütünü olarak beliren komutlar öbeği. Kullanıcı tarafından tanımlanan ve bilgisayar tarafından yerine getirilen herhangi bir iş.
+iş % job
+jop batch % iş grubu, parti iş. Bir parti oluşturacak şekilde işlerin peş peşe bilgisayara verilmesi.
+iş grubu, parti iş % job batch
+job control % iş güdümü. Bilgisayarda her bir işi ya da iş adamını sıraya koyarak yürütümüne elverecek koşulları sağlamak.
+iş güdümü % job control
+job control statement % iş güdüm komutları. Bir programda işi tanımlayan ve gereklerini bilgisayarın işletim sistemine bildiren komut.
+iş güdüm komutları % job control statement
+job definition % iş tanımı. Bilgisayarda bir işi tanımlayan iş güdüm deyimleri.
+iş tanımı % job definition
+L-network % L devresi. Bir seri, bir paralel öğeden oluşan iki kapılı devre.
+L devresi % L-network
+L2TP(Layer Two Tunneling Protocol) % L2TP, İkinci Katman Tünel Protokolü. Kullanıcı ile sunucu arasında IP protokolüne başvurmadan, salt iki nokta arasındaki bağlantıyı kullanarak aradaki ağ(lar) üzerinden düzgeçiş yapan iletim protokolü. ATM, X.25 ve Frame Relay gibi ortamlarda kullanılır.
+ L2TP, İkinci Katman Tünel Protokolü % L2TP(Layer Two Tunneling Protocol)
+label to % etiketlendirmek. Bir kümedeki nesnelere özelliklerine ya da sınıflarına göre ayırt edici veya betimleyici imler koymak, adlar vermek.
+etiketlendirmek % label to
+label % etiket. 1) Bir veri kümesi hakkında kimlik ve diğer bilgileri taşıyan karakter  kümesi. 2) Hesaplama ya da grafik çizelgelerde belirli bir özellik tanımı. 3) Elektrik, elektronik, mekanik vb. donanım aygıtları üzerine yapıştırılan tanıtma bilgisi. 4) Programlama dillerinde bir deyimi adlandıran ve kimlik tanıtıcı özelliği olan dil yapısı.
+etiket % label
+label align % etiket hizalama. Veritabanı yönetim sisteminde form ve raporlama pencereleri bilgi giriş kutularına yazılacak bilginin yerleşim şekli tanımı.
+etiket hizalama % label align
+label area % etiket alanı. Doğrudan erişimli veri depolama aygıtlarındad iş güdüm komutları ya da deyimleri tarafından okunan bilginin saklandığı alan.
+etiket alanı % label area
+label height % etiket boyu. Yazıcıda adres bilgileri yazdırılırken kullanılan etiket yüksekliği.
+etiket boyu % label height
+label identifier % etiket tanımı. Uygulama belgelerinde bir bölge için verilen simgesel ad. 
+etiket tanımı % label identifier
+label options % etiket seçenekleri. Adres bilgileri yazdırmak için etiket alanı ile ilgili seçenekler.
+etiket seçenekleri % label options
+label switching % etiketli anahtarlama. Internet Protokolü (IP) uygulamasında anahtarlamanın, veri katarının bir alanına yerleştirilmiş giriş ve çıkış etkileri aracılığı ile yürütülmesi.
+etiketli anahtarlama % label switching
+label width % etiket genişliği. Yazıcıda adres bilgileri yazdırılırken kullanılan etiket genişliği.
+etiket genişliği % label width
+labeled % etiketli. Örneğin etiketli küme, etiketli deyim.
+etiketli % labeled
+ladder network % merviden devre. L-devrelerin peş peşe bağlantılanması ile oluşturulan iki kapılı devre.
+merdiven devre % ladder network
+lag % gecikme, öteleme. 1) gecikme. Elektronikte giriş ve çıkış işaretleri arasındaki geçen süre. 2) öteleme. İşaret işlemede özilinti, yani korelasyon işlevinin hesaplanmasında kullanılan zaman ya da uzam ötelemesi. 
+gecikme, öteleme % lag
+lah-lead network % artı-eksi fazlı devre. alçak frekanslar için faz açısının negatif, yüksek frekanslar içinse faz açısının pozitif olduğu devre. 
+artı-eksi fazlı devre % lah-lead network
+lag network % gecikme devresi, eksi fazlı devre. Girdi çıktı ilişkisi bakımından faz açısının daima eksi olduğu devre.
+gecikme devresi, eksi fazlı devre % lag network
+lag veriable % sonraki adım değişkeni. Sayısal benzetim adımının gelecekteki bir başka benzetim adımının girdisini oluşturacak olan çıktısı.
+sonraki adım değişkeni % lag veriable
+lambertian reflection % Lambert yansıması. Yansıyan ışın miktarının, aydınlatan ışının geliş açısından bağımsız olduğu yansıma türü.
+lambert yansıması % Lambertian reflection
+lambertian surface % Lambert yüzeyi, tam mat yüzey. Lambert yansımasına yol açan yüzey özelliği.
+lambert yüzeyi % Lambertian surface
+laminar flow % yaprak tipi akış. Bitişik katmanlar arasında hiçbir karışmanın olmadığı (moleküler ölçeğin dışında) akış. 
+Yaprak tipi akış % laminar flow
+m-to-n relationship % çoktan çoğa ilişki. Veri işlemede A sınıfının herhangi bir öğesinin B sınıfından birden fazla öğeyle ilişkili olabilmesi ve ayn şekilde B sınıfının herhangi bir öğesinin A sınıfından birden fazla öğeyle ilişkili olabilmesi özelliği.
+çoktan çoğa ilişki % m-to-n relationship
+mAC address % MAC adresi. Ağ üzerindeki bir aygıta, imalatı sırasında verilen, 48 bitten oluşan, 12 tane onaltılık karakter içeren,numara.
+mAC adresi % MAC address
+machine positioning precision % makine konumlama kesinliği. Makine konumlama servomekanizması, makine öğeleri, algılayıcı ya da çevirici sisteminin kesinliği.
+makine konumlama kesinliği % machine positioning precision
+machine % makine; bilgisayar. 1) makine. Bir işi mekanik, elektriksel ya da elektronik olarak yapmak üzere tasarlanmış düzenek. 2) bilgisayar.
+makine % machine
+machine address % bkz. absolute address
+machine code % makine kodu. Bilgisayarın en alt düzeydeki donanım birimlerine göre yazılmış program.
+makine kodu % machine code
+machine cycle % makine çevrimi, bil machine cycle
+machine dependent % bilgisayar tipine bağımlı. Belirli bir bilgisayar donanımının özelliklerini kullanan, dolayısıyla sadece o makine üzerinde çalıştırılabilen yazılıma değin.
+bilgisayar tipine bağımlı % machine dependent
+machine error % bilgisayar donanım hatası. Bilgisayar donanımından kaynaklanan hata.
+bilgisayar donanım hatası % machine error
+machine independent % bilgisayar tipinden bağımsız. Belirli bir bilgisayar donanımının özelliklerini kıllanmayan, dolayısıyla farklı bilgisayarlar üzerinde çalıştırılabilen yazılıma değin.
+bilgisayar tipinden bağımsız % machine independent
+machine instruction % bilgisayar komutu. Bir işlem tanımının doğrudan mikroişlemci tarafından kullanılabilecek makine kodundaki hali.
+bilgisayar komutu % machine instruction
+machine interface % bilgisayar arayüzü. Bir programın, aygıtın, kullanıcının ya da sistemin bilgisayarla etkileşme araçları.
+bilgisayar arayüzü % machine interface
+machine language % makine dili. Bilgisayarın en alt düzeydeki donanım birimlerine hitap eden dil.
+makine dili % machine language
+machine learing % otomatik öğrenme. Bir problemin çözümüne yönelik algoritmada yapay zekaya dayanarak ve geçmişteki hataları da göz önüne alarak yapılan iyileştirme. 
+otomatik öğrenme % machine learing
+machine processing % bilgisayarla işleme.
+bilgisayarla işleme % machine processing
+machine-readable % bilgisayarca okunur. 1) Çubuk kodlarda olduğu gibi bilgisayar tarafından algılanıp sayı ya da metne çevrilebilen görüntü birimi. 2) Bilgisayar tarafından kullanılacak ve manyetik bantlarda kaydedilen ikili sayı kodlama biçimi.
+machine-readable medium % bilgisayarca okunur ortam. Bilgisayarın, çoğunlukla optik olan duyucularına veri taşıyabilen bir ortam.
+bilgisayarca okunur ortam % machine-readable
+machine word % bilgisayar sözcüğü. Belli bir veri işleyici için belirli sayıda bitten ya da damgadan oluşan aritmetiksel, mantıksal vb. veri saklama ve erişim birimi.
+bilgisayar sözcüğü % machine word
+macro % makro. Yazılım mühendisliğinde bir programın belirli yerlerine konan önceden belirlenmiş komut dizisi.
+makro % macro 
+macroassembler % makro çeviricisi. Makrokomutların tanımlamasına elveren, bir programiçinde bu makrokomutların açılıp yerlerine kodlarının yerleştirilmesini sağlayan çevirici program.
+makro çeviricisi % macroassembler
+n-adress instruction % n-adresli komut. n tane adres alanı içeren komut.
+n-adresli komut % n-adress instruction
+n-ary % n'lik n-şıklı. 1) Alfabesi n simgeden oluşan bir koda ilişkin. 2) n tane farklı değeri ya da durumu olan koşula ya da seçime ilişkin.
+n'lik n-şıklı - n-ary
+n-dimensional interval % n-boyutlu aralık. Bir n boyutlu uzayda, (ai, bi) i = 1,...,n gerçel sayılarolmak üzere, her bir i için (ai, bi) kapalı aralıkarını sağlayan noktalar kümesi.
+n-neighborhood % n-komşuluk bölgesi. Görüntü işlemede bir görüntü öğesi üzerine etkisi olduğu varsayılan ve belirli bir düzende yer alan bitişik n tane görüntü öğesinin topluluğu.
+n-port network % n-kapılı devre. 1) n tane kapıyı oluşturan 2n tane uçlu devre. 2) 2n'den çok uç içerip 2n tane ucunun kapı niteliği taşıdığı devre.
+n-kapılı devre % n-port network
+n-terminal pair network % bkz. n-port network
+n-tuple % n'li, n çokuzlu. Sıralı (x1,x2,...,xn) değerler kümesi.
+n'li, n çokuzlu % n-tuple
+n-type semiconductor % n tipi yarıiletken. Çoğunluk taşıyıcılarının elektronlar olduğu, katışkılı yarıiletken bir madde. 
+n tipi yarıiletken % n-type semiconductor
+name % ad1) Bir dosya, tutanak ya da alanı belirleyen alfasayısal dizgi. 2)Belirli bir veri tipi içinde belirli bir nesneyi tanılayan karakter grubu.
+ad % name
+name server % ad sunucusu. Kullanıcı adı ile elektronik posta adreslerinin karşılaştırılarak bulunduğu Internet adres kayıtlarının yer aldığı hizmet. Bilgisayarlarda internet ad ve adreslerinin yer aldığı veritabanı.
+ad sunucusu % name server
+name space % ad uzayı. Paylaşılan ortamda bilgisayar birimlerinde kullanılan tanımlar ve kaynaklar için düzenlenmiş adlar. Domain Name Server sisteminde uzmanlık gruplarının dikey sıradüzensel ağaca göre adlandırılması.
+ad uzayı % name space
+name translation % ad çevirimi. Yerel ağ birimleri adlarının başka bir ağda geçerli olarak şekilde çevrilmesi. 
+ad çevirimi % name traslation
+named pipe % adı konmuş kanal. Belirli bir ad verilmiş ve birbirinden uzaktaki iki bilgisayardaki süreçler arasında veri akışını sağlayan iletişim kanalı.
+adı konmuş kanal % named pipe
+named target % adı konmuş hedef. HTML yazılımlarında etiket satırında tanımlanan bağlantı konumu.
+adı konmuş hedef % named target
+nAND - OVE, olumsuz VE. P,Q,R..., ikili değişkenlerinden en az biri '' yanlış '' olduğunda çıktının doğru olduğu Boole işlemi.
+oVE, olumsuz VE % NAND
+NAND gate - OVE, olumsuz VE geçidi. Girişlerindeki mantık değişkenlerin tümünün değeri '' doğru '' olduğunda çıktısının '' yanlış '', diğer durumlarda çıktının hep '' doğru '' olduğu geçit.
+oVE olumsuz VE geçidi % NAND gate
+narrative information % formatsız bilgi. Doğal dilin sözdizimine göre düzenlenmiş bilgi. Karşıtı '' formated information ''.
+formatsız bilgi % narrative information
+narrative model % sözel model. Özellikleri bir doğal dilin ifadeleri ile aktarılan simgesel model. Diğer model belirleme yöntemleri grafik, matematik ve yazılım ifadelerine dayalıdır.
+sözel model % narrative model
+narrowband  % dar bantlı. Görece dar olan ve çoğunlukla tek bir kullanıcıya özgü kılınmış olan frekans bandı; tipik olarak 64kbit/s altındaki hızdaki sayısal iletim.
+dar bantlı % narrowband
+narrow beam % dar huzme.
+dar huzme % narrow beam
+object % nesne. 1) Bir bilgi ya da yargının öznesi ya da bir yüklemin konusu. 2) Bilgisayar güvenliğinde bir dosya bir program, bir saklatım bölgesi gibi erişimi denetlenen şey. 3) Bayt, blok, saat, alan, dosya, dizin, ekran,klavye, ağ düğümü, sayfa, yazıcı, işlemci, program sözcük gibi veri alışverişinde bulunabilen her şey.
+nesne % object 
+object class % nesne sınıfı , Nesneye yönelik programlamada belirli bir nesne tipi için değişkenleri ve yöntemleri tanımlayan soyut model; bu modelden hareketle özel değerlere sahip somut nesneler gerçekleştirilir.
+nesne sınıfı % object class
+object code % nesne kodu. Üst düzeyde yazılmış bir programın derleyici aracılığı ile makine lpdıma yakın getirilmiş hali;nesne kodundan makine koduna geçiş ise çevirici, ilişkilendirici aracılığıyla olur.
+nesne kodu % object code
+object color % nesne rengi. Standart bir aydınlatıcı altında bir nesnenin yansıttığı ya da geçirdiği ışığın rengi.
+nesne rengi % object color
+object computer % yürütücü bilgisayar. Başka bir makine üzerinde derlenmiş kaynak programı yürüten hesaplayıcı ya da bilgisayar.
+yürütücü bilgisayar % object computer
+object database % nesne veritabanı. Video,gfrafik, ses, konuşma işaretleri, metin, sayısal veriler gibi nesneleri içeren veritabanı.
+nesne veritabanı % object database
+object definition % nesne tanımı. Bir nesneyi yaratıp yönetmek üzere gerekli bilgi dağarcığı.
+nesne tanımı % object definition
+object file % nesne dosyası. Nesne kodlarından oluşan bir nesne kitaplığında bulundurulan dosya.
+nesne dosyası % object file 
+object handler % nesne yöneticisi. Bir nesneyi yöneten ve mesajlarını alıp yanıtlayan program.
+nesne yöneticisi % object handler
+object language % amaç dil, hedef dil. Nesne programlarının yazıldığı dil.
+amaç dil, hedef dil % object language
+object library % nesne kitaplığı. Nesne program ve altyordamlarınnın doğrudan erişimli bir bellekte saklanması.
+nesne kitaplığı % object library
+object manager % nesne yöneticisi. Bir nesneyi yöneten ve mesajlarını alıp yanıtlayan program.
+nesne yöneticisi % object manager
+object model % nesne modeli. Nesneye yönelik programlamada bilgileri soyutlama, uyuşumlarını sağlama, koruma gibi özellikleri taşıyan temel yapı.
+nesne modeli % object model 
+object module % nesne modülü.Birbirleriyle bağlanmaya elverecek denli tamamlanmış nesne programının tümü ya da bir parçası. Bir kaynak programından bir derleyicinin makine dilinde ürettiği komut kümesi.
+nesne modülü % object module
+object-oriented design % nesneye yönelik tasarım. Yazılım sisteminin nesneler ve aralarındaki ilişkiler ile ifade edildiği yazılım geliştirme tekniği.
+nesneye yönelik tasarım % object oriented design
+object-oriented graphics % vektör imge. Matematik koordinatları ile tanımlanmış çizgi, daire, dikdörtgen gibi nesnelerle oluşturulmuş imge.
+vektör imge % object-oriented graphics
+object-oriented interface % nesneye yönelik arayüz. Sistem öğelerinin ekranda simgeler halinde görüldüğü ve tıklamayla çalıştırılabilir olduğu arayüz.
+nesneye yönelik arayüz % object-oriented interface
+object-oriented language % nesneye yönelik dil. Modüller halinde düzenlenen ve her modülün ayrı bir nesneyi ifade ettiği programlama dili.
+nesneye yönelik dil % object-oriented language
+object-oriented representation % nesne merkezli gösterim. Tek bir gösterime sahip olan, görülen diğer tüm gerçekleşmelerinin de bu gösterme indirgenebileceği nesne. 
+nesne merkezli gösterim % object-oriented representation
+object-oriented technology % nesneye yönelik teknoloji. Yeni programlar üretmek üzere aralarında işbirliği yapıp iletişim kuran ve her biri belirli özellikler taşıyan alt yordamların yeniden kullanımına dayalı teknoloji.
+nesneye yönelik teknoloji % object-oriented technology
+p-type semiconductor % p-tipi yarıiletken. Çoğunluk taşıyıcılarının delikler oluduğu, kendinden yarıiletken olmayan bir madde. 
+p-tipi yarıiletken % p-type semiconductor
+pacing % akış ritmi. Veri iletişiminde, aşırı yüklenme ve tıkanıklığa yol açmamak için,alıcının, göndericinin iletme hızını kontrol etmesi.
+akış ritmi % pacing 
+package % kılıf. Elektronik devrelerin koruyucu kılıfı.
+kılıf % package
+package % nesne simgesi. Bir istemci belgesinde yer alıp içindeki ya da bağlı olduğu bir nesneyi gösteren simge.
+nesne simgesi % package
+package % yazılım demeti. İçinde birden fazla uygulama programı bulunan yazılım demeti.
+yazılım demeti % package
+package software % paketlenmiş yazılım. Perakende satıcılar tarafından hazırlanıp satılan uygulama programları paketi.
+paketlenmiş yazılım % package software
+packed data % yoğunlaşmış veri.
+yoğunlaşmış veri % packed data
+packet % paket. Veri ve çağrı kontrol işaretlerini de içeren ve bir bütün olarak anahtarlanan ikili basamaklar öbeği.
+paket % packet
+packet % assembler/disassembler % paket kurucu/açıcı. Paket standardında olmayan aygıtların paket ağına erişimine elveren, verilerin paketlenmesi ve açılması işlemlerini yerine getiren ara birim.
+paket kurucu/açıcı % Packet % assembler/disassembler
+packet buffer % paket arabelleği. İletilmeyi bekleyen paketlerin ya da henüz alınmamış olan paketlerin bekletildiği bellek alanı.
+paket arabelleği % packet buffer
+packet data network node % paket ağı düğümü. Bir paket iletişim sisteminde anahtarlama, yönlendirme, sayışım gibi işlerle yükümlü düğüm.
+paket ağı düğümü % packet data network node
+packet filter % paket süzgeci. Ağ yöneticisi tarafından belirlenen ölçütlere gore alınan paketlerin süzülmesi.
+paket süzgeci % packet filter
+Packet format % paket formatı. Bir paketteki veri kontrol bilgisinin yapısını belirleyen kurallar toğluluğu.
+paket formatı % packet format
+packet header % paket başlığı. Paket anahtarlamalı ağlarda bir paketin kontrol ve kimlik bilgilerini içeren ilk birkaç bayt. 
+paket başlığı % packet header
+packet layer % paket katmanı. Bilgisayar ağlarında paketlerin yönlendirilmesi ve bağlantı yollarının oluşturulması ile yükümlü protocol katmanı.
+paket katmanı % packet layer
+packet level interface % paket katmanı arayüzü. Veri uçbirimi ve veri iletişim uçbirimi arasında paket formatını ve kontrol ve kullanıcı verilerini taşıyan paket iletişim kurallarını sağlayan arayüz.
+paket katmanı arayüzü % packet level interface 
+packet-mode terminal % paket uçbirimi. Paketleri gönderip alabilen yöneten ve paket haline getirip açabilen veri uçbirimi.
+paket uçbirimi % paket-mode terminal
+packet over SONET % SONET üzerinden paket iletimi.
+sONET üzerinden paket iletimi % packet over SONET
+packet radio % paket radyo. İletim yollarının radio kanalı olduğu ve iletilen paketin birden fazla terminal tarafından alındığı paket anahtarlama sistemi.
+paket radyo % packet radio
+packet sequencing % paket sıralaması. Paket tabanlı bilgisayar ağı iletişiminde her bir paketinin sıralılığının korunması için paketin tarih sıra numarasını içeren bit alanı.
+paket sıralaması % packet sequencing
+q factor % kalite faktörü. 1) Elektrikte tepkin gücün etkin güce oranı. 2) Bazı devre elemanlarında saklanan enerjinin yitirilen enerjiye oranı.
+kalite faktörü 6 Q factor
+q-percentile % Q-yüzdelik. Olasılık kütlesinin yüzde Q ‘luk kısmı.
+q-yüzdelik % Q-percentile
+quad % dörtlü. Dört yalıtılmış ve bürütülmüş telin bir kabloda yer alışı.
+dörtlü % quad
+quadratic % karesel. En yüksek ikinci dereceden terimler içeren ifadeye ilişkin.
+karesel % quadratic
+quadratic dedector % karesel sezici. Çıktısı, girişteki işaretin karesi olan sezici.
+karesel sezici % quadratic dedector
+quadratic form % karesel biçim. İkinci dereceden terimler içeren türdeş çokterimli; örneğin x**2+5xy+3y**2.
+karesel biçim % quadratic form
+quadratic loss function % karesel yitim işlevi. İşaretteki bilgi kaybının, giriş ve çıkış arasındaki farkın karesinin tümlevi olarak ölçülmesi.
+karesel yitim işlevi % quadratic loss function
+quadratic polynomial % karesel çokterimli. İkinci dereceden iki değişkenli polinom.
+karesel çokterimli % quadratic polynomial
+quadratic programming % karesel programlama. Yöneylemde, amaç işlevinin karesel bir ifade olduğu, kısıtların ise doğrusal işlevler olduğu doğrusal olmayan programlama tekniği.
+karesel programlama % quadratic programming
+quadrature % dördün. Aralarındaki faz farkı bir çevrimin dörtte biri olan iki dönemli işlevin ilişkisi.
+quadrature amplitude modulation % dördün genlik kiplenimi. Baud başına bit sayısını artırmak üzere hem genlik hem de sayısal faz kiplemini kullanan yöntem. 
+dördün genlik kiplenimi % Quadrature amplitude modulation
+quadrature amplitude shift keying % QASK. Dördün genlik kaydırmalı kiplenim.
+qASK % quadrature amplitude shift keying
+quadrature axis % dördün eksen, dik evreli eksen. Bir referans ekseni ile 90 derece açısı olan eksen.
+dördün eksen, dik evreli eksen % Quadrature axis
+quadrature phase % dik evre, dördün evre.
+dik evre, dördün evre % quadrature phase 
+quadrature phase shift keying  QPSK. Dördün faz kaydırmalı küplenim.
+qPSK % Quadrature phase shift keying
+quadric curve % ikinci dereceden eğri. İkinci basamaktan ve ax**2+cy**2+bxy+dx+ey+f şeklinde ifade edilen eğri.
+Ikinci dereceden eğri % quadric curve
+qualification certificate % nitelik belgesi. Yetkili bir kuruluşun belirli kurallar çerçevesinde değerlendirerek bir teknik,meslek dalı ya da örgüt hakkında verdiği yeterlilik belgesi.
+nitelik belgesi % qualification certificate
+qualification testing % nitelik sınaması. Bir yazılımın isterleri karşılığını gösteren ve çoğu zaman yetkili bir otorite tarafından müşteri hesabına yürütülen sınama.
+nitelik sınaması % Qualification testing
+qualified % koşulları sağlayan. İstenen koşulları yerine getiren, gerekli beceri ya da yetkiye sahip.
+koşulları sağlayan % qualified 
+qualified name % ayrıntılı ad. Ait olduğu sınıfın da etiketini taşıyan veri adı.
+ayrıntılı ad % qualified name
+race condition % yarış durumu. 1) mantıksal devrelerde iki ya dad aha çok değişkenin hangi sırayla değiştiğine bağlı olarak devrenin farklı duruma geçmesiyle ortaya çıkan belirsizlik. 2) Karmaşık davranışlar sergileyen sistemlerde Iç işlemlerin birbirini geribesleme ile etkileyen davranışı.
+yarış durumu % race condition
+raceway % kablo kanalı. Kablo tellerinin içinden geçtiği kalıp,döküm ,oluk.
+kablo kanalı % raceway
+rack % kabin çatısı, çatı. Santral devre öğelerinin yerleştirildiği raflı yapı. Elektronik donanımın yerleştirildiği başka bir yapıyla ilişkilendirilmemiş kabin çatısı.
+kabin çatısı, çatı % Rack
+rack-mounted % rafa monte edilmiş. Standart genişlikte bir kabin rafına kurulmuş,örneğin, elektornik devre.
+rafa monte edilmiş % rack-mounted
+radar % radar. Elektromanyetik enerjinin iletimi ve yansıması yoluyla hedeflerin erimi, yüksekliği ve azimutu hakkında bilgi edinmeye yarayan radyo donatımı.
+radar % radar
+radar altimeter  radarlı yükseklikölçer. Bir uçak ile yer arasındaki dikey uzaklığı ölçmeye yarayan ve uçakta taşınan radar donatımı.
+radarlı yükseklikölçer  radar altimeter
+radar approach % yerden güdümlü iniş. Görüş koşullarının çok kötü olduğu durumlarda uçağın inişinin yer radarı ve radyo kumandası ile denetimi.
+yerden güdümlü iniş % radar approach
+radar beacon % radar farı. Radar frekansında kodlanmoş bir işaret yollayıp, bir uçağın bu alıcı-göndericiye baıl açı ve uzaklığını belirlemeye yarayan dozen.
+radar farı % radar beacon
+radar clutter % radar parazitleri. Radar ekranında görülen gürültülü işaretleri.
+radar parazitleri % radar clutter
+radar coverage % radar kaplama hacmi. Radarda hedeflerin izlenebildiği en büyük alan.
+radar kaplama hacmi % radar coverage
+radar cross-section % radar kesiti. Bir radar hedefinin yansıtıcılık miktarı.
+radar kesiti % radar cross-section
+radar echo % radar yankısı. Bir katot ışın tüpü üzerinde hedeften yansıyan radar ışınının yol açtığı sapma ya da yeğinlik farkı.
+radar yankısı % radar echo
+radar equation % radar denklemi. Radarın erimi ile verici gücü, anten kazancı, etkin alan,frekans, radar kesiti, işaret gürültü oranı gibi faktörleri ilişkilendiren denklem.
+radar denklemi % radar equation
+radar foreshortening % radarda yakınlaşma etkisi. Radar teknolojisinde, hedefin yerin yatay referans düzleminden uzaklaşan kısımlarının yanlış konumda görünmesi. 
+radarda yakınlaşma etkisi – radar foreshortening
+radar imaging % radar fotoğrafı. Radara yansıyan işaretlerle bir imge oluşturma
+radar jamming % radarı boğma. Bir radarın işaretlerini kullanılmaz hale getirmek üzere elektromanyetik dalgalara gömme.
+radarı boğma % radar jamming
+radar pulse % radar darbesi. Radardan gönderilen elektromanyetik darbe.
+radar darbesi % radar pulse 
+radar range % radarın erimi.
+radarın erimi % radar range
+radar range finder % radyotelemetre. Sadece uzaklık ölçmeye yarayan radar.
+rayotelemetre % radar range finder
+radar shadow % radar gölgesi. Radarın, aradaki yansıtıcı, soğurucu ya da kırındırıcı bir engelden dolayı, bir bölgeyi aydınlatamaması.
+radar gölgesi % radar shadow
+s-interface % S-arayüzü. Tümleşik hizmetler sayısal ağında abonenin THSA nitelikli aygıtı ile hat sonlandırma aygıtı arasındaki arayüz.
+s-arayüzü % S-interface
+s-plane % s düzlemi. Laplas dönüşümünde kullanılan karmaşık frekans düzlemi.
+s düzlemi % s-plane
+saddle point % eyer noktası. Bir işlevin birinci dereceden türevlerinin sıfır olduğu fakat bir maksimum ya da minimum yer almadığı nokta.
+eyer noktası % saddle point
+saddle point equilibrium % eyer noktası dengesi. Sıfır toplamlı bir oyunda, J ceza işlevi oluşturduğunda her bir a,b strateji çifti için gerek J (a+,b+) ‘nin J (a,b+) ‘den küçük ya da eşit, ve gerekse J (a+,b+)’nin J (a+,b) ‘den küçük ya da eşit olma durumunu sağlanıyorsa a+, b+ stratejisi eyer noktası dengesini oluşturur.
+eyer noktası dengesi % saddle point equilibrium
+safety % güvenlik. Bir şeyin koruma güvencesi verilmesi, belbağlanabilir olması.
+güvenlik%– safety
+safety apparatus % güvenli alet.
+güvenli alet % safety apparatus
+safety appliance % koruma tertibatı. Endüstriyel ortamda, makinelerin, özellikle hareket eden kısımlarından doğacak tehlikelere karşı alınan koruma önlemi.
+Koruma tertibatı % safety appliance
+safety factor % güvenlik katsayısı. Bir öğenin doğru çalışmasını sağlamak üzere tasarımda öngörülen güvenlik payı.
+güvenlik katsayısı % safety factor
+safety function % güvenlik işemi. Güvenliği sağlamak için gerekli,reaktörü durdurma,arta kalan ısıyı boşaltma gibi,işlemler.
+güvenlik işlemi % safety function
+safety margin % güvenlik payı. Otomatik kontrolde güvenlik katsayısının 1’I aşma miktarı.
+güvenlik payı % safety margin
+safety validation % güvenlik sağlaması. Sistemin belirtildiği gibi güvenli işlediğini ve amaçlanan işlevleri yerine getirdiğini yönelik ve belirli bir yapı içinde yürütülen işmlemler.
+güvenlik sağlaması % safety validation
+safety verification % güvenlik doğrulaması. Sistemin kritik işlevlerini tanımlamaya, bu işlevlerin kusursuzca ve arızalara bağışık bir şekilde yürütüldüğünü sınamaya yönelik ve belirli bir yapı içinde yürütülen işlemler.
+güvenlik doğrulaması % safety verification
+sag % bel verme. Bir elektriksel havai hatta, iki direğin arasındaki düz çizgi ile telin orta yerindeki konumu  arasındaki dikey uzaklık.
+bel verme % sag
+salami technique % salam dilimi tekniği. Bir bilgi işleme sisteminden, dikkati çekmecek denli küçük miktarda bilgi aşırılması.
+salam dilimi tekniği % salami technique
+sales transaction % satış hareketi. Bir satış noktası terminaline, satılan mal ile ilgili gerekli bilgilerin girilmesi ile satışın tamamlanması.
+satış hareketi % sales transaction
+salient point % taç noktası. Bir eğrinin iki kolunun birleştiği ve ayrı teğetlerinin var olduğu nokta.
+taç noktası % salient point
+sample T örneklem,numune, örnek.1) Bir evrenin belli bir özelliğini incelemek için o evreden seçilen birimler topluluğu. Örnekleme yöntemiyle yürütülecek herhangi bir çözümleme çalışmasında kullanılmak üzere seçilen örnek öğeler kümesi. 2) alıcılara niteliği hakkında fikir vermek üzere dağıtılan küçük miktarda ürün.
+örneklem, numune, örnek % sample
+sample%and-hold action % örnekle-tut eylemi. Sistem kuramında iki örnekleme anı arasındaki çıktının,katsayıları daha önceki örnek değerleri kullanılarak hesaplanan çokterimlilerden oluştuğu davranış türü.
+örnekle%tut eylemi % sample-and-hold action
+sample%and-hold device % örnekle-tut devresi. Çıkış değeri, örnekleme periyodu boyunca, bir önceki girdiye eşit olan analog devre.
+örnekle%tut devresi % sample-and-hold device
+sample desing % örneklem tasarımı. İstatistikte verilen bir örnekleme çerçevesinde örneklem seçimi için geçerli kurallar kümesi.
+örneklem tasarımı % sample desing
+t-network % T-devresi. T biçiminde bağlanmış üç devre elemanından oluşan devre. Serbest uçlarının biri giriş ucuna, biri çıkış ucuna, diğeri de giriş ve çıkış arasında ortak bağlanır.
+t-devresi % T-network
+t-series recommendations % T-serisi tavsiyeler. Uluslararası Teleiletişim Örgütünün yayımladığı, faks, telemetin,videometin gibi telematik hizmetlere ilişkin tavsiyeler.
+t-serisi tavsiyeler % T-series recommendations
+t-test % t-sınaması. İstatistikte küçük örneklem nüfuslarında anlamlığı ölçmek için kullanılan t-dağılımına dayalı sınama.
+t-sınaması – t-test
+tab % sekme. Yazılan sayfa üzerinde yazıcının ya da sayfanın konumunu, ekranda ise imlecin konumunu önceden saptanmış belirli tere atlatmak.
+sekme % tab
+tab alignment % sekme ayarı. Bir tabloda virgule, onlu nnoktasını ya da başka bir karakteri referans olarak otomatik olarak sayıyı ya da karakterleri sütunda hızalama.
+sekme ayarı % tab alignment
+tab character % sekme karakteri. Verileri ekranda gösterirken ya da yazılı çıktı alırken sütınlar halinde düzenlemesini sağlayan kotrol karakteri.
+sekme karakteri % tab character
+tab key % sekme tuşu. İmleci belirlenebilen bir karakter sayısında ileri-geri götürerek verilerin bir tablo içinde, sütunlar halinde düzenlenmesini sağlayan tuş.
+sekme tuşu % tab key
+tab position % sekme konumu
+sekme konumu % tab position
+tab ruler % sekme cetveli. Grafik ekranlı yazı işlemcilerde sayfa düzenlemesini kolaylaştırmak amacıyla sekmelerin ve derecelerinin yer aldığı.
+sekme cetveli % tab ruler
+tab setting % sekme ayarı. Yazı işlemcilerde sekmenin sütunun sağına,soluna,ortasına hizalanmasını sağlayan elektronik kontrol.
+sekme ayarı % tab setting
+tabbing % sekme ayarı. Imlecin sekme işleminde bulunacağı yatay ve/veya dikey konumları ayarlamak.
+sekme ayarı % tabbing
+table % çizelge tablo. 1) kullanıma elverişli biçimde sıralanan sayısal bilgiler dizgesi. 2) Her öğesi kesin biçimde bir ya da birkaç dizin sayısı ile belirtilebilen veri dizilimi.
+çizelge tablo % tablo 
+table header % tablo başlığı.
+tablo başlığı % table header
+table lookup % çizelgeye başvurma. Bir işlemin değerini bir çizelgeye başvurarak belirleme işlemi.
+çizelgeye başvurma – table lookup
+tablet % tablet. Düz bir yüzey üzerindeki bir kalemin konumunu koordinat verilerine dönüştüren bilgisayar giriş birimi.
+tablet % tablet
+taboo channel % yasak kanallar. Uluslararası iletişim örgütlerince saptanan ve komşu kanallardan gelen girişimlerden ötürü kullanılması uygun olmayan kanallar.
+yasak kanallar % taboo channel
+tabular difference % tablo hücreleri arasındaki fark.
+tablo hücreleri arasındaki fark – tabular diffirence
+tabular mode % tablo biçiminde.
+tablo biçiminde % tabular mode
+tabulate to % tablolaştırmak. Verileri tablo halinde düzenlemek.
+tablolaştırmak % tabulate to
+tabulation % tablolaştırma, çizelgeleme. Bilgileri sütunlar ve satırlar olarak düzenlemek.
+u-interface % u-arayüzü. Tümleşik Hizmetler sayısal Ağında abone yerleşkesindeki sonlandırıcı ile kamusal ağın yerel döngüsü arasındaki 2-telli fiziksel arayüz.
+u-arayüzü % U-interface
+U-type manometer % u-borulu basınçölçer.Sıvı ile doldurulmuş U biçimindeki bir ka pile yapılan basınçölçer.
+u-borulu basınçölçer % U-type manometer
+ultra high frequency band % pek yüksek frekans bandı. 30 MHz – 3 GHz arasındaki frekansları içeren radyo bandı.
+pek yüksek frekans bandı % ultra high frequency band
+ultrasonic % sesüstü, sesötesi. İşitilebilir frekansların ötesinde akustik titreşimlere ilişkin, örneğin sesüstü yayılım, sesüstü gecikme hattı.
+sesüstü, sesötesi % ultrasonic
+ultrasonic attenuation % sesüstü zayıflama. 30 KHz’in üstündeki frekanslarda zayıflama.
+ses üstü zayıflama % ultrasonic attenuation
+ultrasonic camera % sesüstü kamera.Ses üstü dalgaların tansımasını kayıt edip hedefin imgesini oluşturan kamera.
+sesüstü kamera % ultrasonic camera
+ultrasonic detector % sesüstü algılayalayıcı. Kulakla işitilmeyen ses üstü titreşimlerin varlığını algılamak, genliğini ve frekansını ölçmek için kullanılan aygıt.
+sesüstü algılayıcı % ultrasonic detector
+ultrasonic frequency % sesüstü frekansı. İnsan kulağının işitme sınırı ötesinde bulunan seslerin titreşim sıklıkları.
+sesüstü frekansı % ultrasonic frequency
+ultrasonic motion detector % sesüstü devinim sezici. Güvenlik sistemlerinde sesüstü dalgalarla hareket eden nesnelerin algılanması.
+sesüstü devinim sezici % ultrasonic motion detector
+ultrasonic sensor % sesütü algılayıcı. Sesüstü dalgaları algılayan döüştürücü. 
+sesüstü algılayıcı % ultrasonic sensor
+ultrasound % sesüstü. Hızı ses hızından yüksek olan.
+sesüstü % ultrasound
+ultraviolet % morötesi. Sıklıkları görünür frkeans bandının ötesinde yer alan elektromanyetik ışınlara ilişkin.
+morötesi % ultravioletunary – birli, tek işlenenli. Tek argümanı olan işleme ilişkin.
+birli, tek işlenenli % unary
+unary operator % birli işleç. Tek bir işleneni olan aritmetik işleç.
+birli işleç % unary operator
+unassign, to % adı serbest bırakmak. Bilgisayar ağlarında uzaktan kaynak yönetimi ile yerel bir aygıt adını serbest bırakmak.
+adı serbest bırakmak % unassign, to 
+unassigned % atanmamış, tahsis edilmemiş.
+atanmamış, tahsis edilmemiş % unassigned
+unattended messaging % işletmensiz mesaj hizmeti. Elektronik mesajların, söz postasının ya da dosya aktarımının işketmensiz kipte, yani önceden programlanarak yürütülebilmesi.
+ışletmensiz mesaj hizmeti % unattended messaging
+unattended mode % işletmensiz çalışma. Bir işletmenin elcil müdahelesini gerektirmeden, otomatik yanıt veren bir aygıtın çalışma kipi.
+ışletmensiz çalışma % unattended mode
+unauthorized data modification % yetki dışı verilerin değiştirilmesi. Tanımlı güvenlik politikasıyla bağdaşmayacak şekilde verilerin değiştirilmesi.
+yetki dışı verilen değiştirilmesi % Unauthorized data modification
+unavailable % kullanılmayan, yararlanılmayan. 
+kullanılmayan, yararlanılmayan – unavailable
+v-beam radar % V-huzmeli radar. Bir hedefin yyükselti ve ufuk açıları ile uzaklığını belirlemek üzere tasarımlanmış yer radarı.
+v-huzmeli radar % V-beam radar
+v-interface % V-arayüzü. Uzak bir uçbirimden tek bir abone için ISDN ( Tümleşik Hizmetler Sayısal Ağı ) bağlantısını sağlayan iki telli fiziksel arayüz.
+v-arayüzü % V-interface 
+v-series recommendations % V-serisi tavsiyeler. Uluslararası Teleiletişim Örgütünün kamusal anahtarlamalı ağlar üzerinden veri iletimini gözeten tavsiyeleri. 
+v-serisi tavsiyeler % V-series recommendations
+vacant code % boş kod. Telefon anahtarlama sistemlerinde herhangi bir işlevi olmayan basamak ya da basamak grubu.
+boş kod % vacant code 
+vacuum pressure % boşluk basıncı. Değeri atmosfer basıncından az olan bir basınç ile atmosfer basıncı arasındaki fark.
+boşluk basıncı % vacuum pressure
+vacuum tube % vakum tüpü, elektron tüpü. Elektriksel özellikleri, içinde kalan gaz veya buharın iyonlaşmasından etkilenmeyecek düzeyde havası boşaltılmış olan bir elektron tüpü.
+vakum tüpü % vacuum tube
+valency – değerlilik. Bir atom ya da atom grubunun kimyasal bir birleşimde yerini alabileceği hidrojen atomu sayısı. 
+değerlilik % valency
+validation % sağlama, geçerlik sınaması. 1) Bir ölçme aracı ya da ölçümün konusuna uygunluğunu ve her türlü dizgeli, dizgesiz yanılgıdan arınmışlığını gösterme. 2) Bir modelin temsil ettiği gerçek dizgeyle uyuşumunun sınanması.
+sağlama, geçerlik sınaması % validation
+validation test % sağlama. Bir system ya da bileşenin belirtilen isterleri karşılayıp karşılamadığını geliştirme süreci boyunca ya da sounda sınanması.
+sağlama % Validation test
+validity % geçerlik. Bir aletin gerçekten ölçmek istediğini ölçtüğü ya da erişilen bir bilginin konusuna uygun düşüp düşmediğinin saptanması.
+geçerlik % validity
+validity check % geçerlik denetimi. Verinin alınmasından sonra doğruluğunun denetlenmesi. Geçersiz,erim dışı ya da belirgin hatalı sonuçları bulma yordamı. 
+geçerlilik denetimi % validity check 
+valley value % koyak değeri. Belirli bir zaman aralığında zamana bağımlı bir büyüllüğün aldığı en küçük değer.
+koyak değeri % valley value
+value % değer. 1) Bir simgeye karşılık gelen nicelik ya da tutar. 2) bir özniteliğin belirli bir somut değeridir. 3) Bir simgeye, parametreye, değişkene atanan değer.
+değer % value
+value-added carrier % katma değerli taşıyıcı. Bilgisayara yönelik hizmetler ya da faks iletimi gibi özel hizletler sunan taşıyıcı.
+katma değerli taşıyıcı % value-added carrier
+value-added network % katma değer ağı. Üzerinde taşıdığı verilere değer katan iletişim ağı.
+katma değer ağı % value-added network
+value of a quantity % bir büyüklüğün değeri. Bir büyüklüğün bir rakam ve uyhun bir ölçüm birimiyle ifadesi.
+bir büyüklüğün değeri % value of a quantity
+value range constraint & değer erimi kısıtı. Kabul edilebilir değerler kümesinin getirdiği kısıt.
+değer erimi kısıtı % value range constraint
+valve % vana. Bir akışkanın akış hızını değiştiren mekanik aygıt.
+vana % valve
+valve positioner % vana konumlayıcısı. Vananın oynak kısmının daha doğru ve hızlı biçimde konumlanmasına yarayan yardımcı kontrol dizgesi.
+vana konumlayıcısı % valve positioner
+variable % değişken. 1) değeri değişebilen ve çoğunlukla ölçülebilen bir nicelik ya da özellik. 2) programlama dillerinde herhangi bir anda tek bir tane olmak üzere farklı değerler alabilen dil nesnesi. 3) prograın yürütümü esnasında değeri değişebilen ve bir veri öğesine işaret eden ad.
+değişken % veriable
+wafer % pul. İşlemden sonar kırmıklara bölünen, tipik olarak silisyumdan oluşan ince arıtılmış kristal yarıiletken tekeri.
+pul % wafer
+wait condition % bekleme durumu. Bilgisayarda işlemcinin, belirli bir işaret ile yeniden başlatılıncaya değin, çalışmadığı durum.
+bekleme durumu % wait condition
+wait state % Bekleme durumu. Bir bilgisayarın hiçbir iş yapmadığı, iki işlem arasındaki beklemede olduğu durum. 
+bekleme durumu % wait state
+walk-through % yapısal denetim. Bir sistemin ya da yazılımın geliştirilme sürecinde uzmanların, amaçları ve gereksinimlerini de göz önüne alarak yürüttükleri sistematik denetim.
+yapısal denetim % walk-through
+war game % savaş oyunu. Katılımcıların, verili kısıt ve koşullar altında, belirli askeri hedeflere ulaşmaya çalıştığı benzetim oyunu.
+savaş oyunu % war game
+warm reset % sıcağı sıcağına başlatma. Bilgisayarın, elektirik kesintisi olmadan, önceki çalışma döneminden bazı parametrelerin kullanılır durumda olduğu haliyle yeniden başlatma. 
+sıcağı sıcağına başlatma % warm reset 
+warm-up period % ısınma süresi. Bir aygıtın, enerji bağlantısının kurulmasından sonar çıkış karakteristiğinin istenen duruma gelmesine değin geçen sure.
+ısınma süresi % warm-up period
+warning message % uyarı iletisi. Bir hata olasılığını kullanıcıya bildirmek amacını taşıyan herhangi bir ileti.
+uyarı iletisi % warning message
+warping % çarpıtma, bükme. Bir nesnenin bir yüzeyin şeklinin kalıcı biçimde bozulması.
+çarpıtma, bükme % warping
+warranty % garanti belgesi. Bir ürünün, hizmetin, sürecin teknik isterleri ve standartları belirli bir güven ölçüsü içinde sağladığını gösterir onay belgesi.
+garanti belgesi % warranty
+watchdog timer % gözcü saati. Donanım hatalarından iletişim hatlarını ve arabellekleri korumak üzere belirli aralıklarla işkesme komutları üreten be bir program ile ayarlanan zamanlayıcı.
+gözcü saati % watchdog timer
+waterfall model % çavlan modeli. Bir ürün geliştirme sürecinde kavram belirleme, isterleri saptama, tasarımlama, gerçekleştirme, test etme, kurulum gibi faaliyetlerin bu sırayı izleyerek yapılması, geri dmnüş ve özyinelemelere izin verilmemesi.
+çavlan modeli % waterfall model
+watermark % damga, gizli damga. Çoğulortam ürünlerine, telif hakkını korumak, izinsiz kopyalanmasına engel olmak, meta bilgiler ekleyebilmek için algılanmaz bir kod yerleştirmek. 
+damga, gizli damga % watermark
+watt-hour % wattsaat. Bir wattlık gücün bir saatte oluşturduğu ya da harcadığı enerji tutarı.
+wattsaat % watt-hour
+watt-hour meter % wattsaatölçer. Bir devrede harcanan toplam elektriksel enerjiyi wattsaat olarak veren aygıt. 
+wattsaatölçer % watt-hour meter
+wattage % wattlık. watt olarak ölçülen elektriksel güç tutarı.
+waatlık % wattage
+wattage rating – anma gücü. 
+anma gücü % wattage rating
+wattmeter % wattölçer. Elektriksel gücü ölçmek için kullanılan, wattlara, bunların kat ve altkatlarına gore bölmelenmiş ayıgt.
+wattölçer % wattmeter
+wave % dalga. 1) Zaman, uzaman ya da her ikisinin birden işlevi olan bir görüngü. 2) Uzam, zaman ya da her ikisinde birden yayılan ısı, mekanik hareket, gerilim, akım, elektrik alan kuvvetindeki bir değişiklik. 3) Bir ortamın fiziksel bir özelliğinin değişmesi ve bu değişikliğin ortam içinde zamanla yayılması.
+dalga % wave
+wave analyzer % spektrum ölçer, dalga çözümleyici. Bir dalgadaki farklı bileşenleri analiz eden alet.
+spektrum ölçer % wave analyzer
+x-intercept % x ekseni kesmesi.
+x ekseni kesmesi % x-intercept
+x-ray image % radyoloji görüntüsü, Röntgen imgesi. 
+radyoloji görüntüsü, Röntgen imgesi – X-ray image
+x-rays – Röntgen ışınları. 
+röntgen ışınları % X-rays
+x-windows % X penceresi. Birçok UNIX sistemi tarafından kullanılan grafik nitelikli kullanıcı arayüzü.
+x penceresi % X-windows
+xy recorder % xy kayıtçısı. İki dik eksen boyunca ölçülen biceliklere orantılı biçimde oynatılan bir kaleme sahip kayıt aleti.
+xy kayıtçısı % XY recorder
+y-intercept % y ekseni kesmesi.
+y ekseni kesmesi % y-intercept
+y joint % çatal ek. İki tablo ekseni yaklaşık parallel olacak şekilde bir dallanma kablosunun ona kabloya bağlanmasını sağlayan donatı.
+çatal ek % Y joint
+yaw angle % rotadan sapma açısı. Bir aracın boylamasına ekseninin yatay yöndeki sapma açısı.
+rotadan sapma açısı % yaw angle
+yoke % boyunduruk. 1) temel amacı ana manyetik devreyi kapatmak olan, genel olarak bir sargı taşımayan sabit ferromanyetik bölüm. 2) Katot ışın tüplerinde elektron demetinin yönlendirilmesi ve odaklanması için hazırlanan elektromanyetik sargılar.
+boyunduruk % yoke
+z-transform % z-dönüşümü. Bir sayı dizisinin karmaşık bir büyüklük olan z değişkeninin kuvvetleriyle ağırlandırılıp toplanmasıyla elde edilen dönüşümü. 
+z-dönüşümü % z-transform
+zap, to % sıkça kanal değiştirmek. Televizyonda kanaldan kanala atlamak.
+sıkça kanal değiştirmek % zap, to
+zenith % başucu.Yeryüzünde ayakta duran bir insanın tepesi doğrultusunda sonsuz uzakta bulunan nokta, zenith.
+başucu % zenith 
+zero-address instruction % adressiz komut. 1) Adresin örtük biçimde belirlendiği ya da adresin gerekmediği komut. 2) Hiçbir adres alanı olmayan bilgisayar komutu.
+adressiz komut % zero-adress instruction 
+zero-based linearity  alt değer doğrusallığı. Görünür alt erim noktasından geçen ve en büyük sapmayı enküçültecek şekilde konumlanmış olan bir doğrudan görünür ölçüm eğrisinin en büyük sapması.
+alt değer doğrusallığı % zero-based linearity
+zero beat % vurusuz. İki frekansın işitebilir bir vuru yaratmayacak denli birbirlerine yakın olması durumu.
+vurusuz % zero beat 
+zero bit % sıfır bit
+sıfır bit % zero bit
+zero-bit insertion % sıfır biti sokuşturma. HDLC( High Level Data Linl Control ) gibi bite yönelik protokollerde saydamlığı elde etmek ve bayrak dizisini özebir kılmak için araya sokulan sıfır bitleri. 
+sıfır biti sokuşturma % zero-bit insertion
+zero code supperession % sıfır kodunu yok etme. Sayısal iletimde peş peşe sekiz sıfırdan oluşan kodları ortadan kaldırmak üzere aralarına bir ‘’ 1 ‘’ sokulması.
+sıfır kodunu yok etme % zero code supperession
+zero crossing % sıfır kesişi. Bir işlevin sıfır eksenini kestiği yer.
+sıfır kesişi % zero crossing
+zero day % birinci gün. Bilgisayar güvenliğinde bir virus ya da saldırı tazı için henüz herkesin bilmediği ve önlemini alamadığı ilk günler. 
+birinci gün % zero day
+zero defect % sıfır kusurlu. (üretim)
+sıfır kusurlu (üretim) % zero defect
+zero elevation % sıfır yüksekliği. Sıfırı içeren bir erimde ölçülen değişkenin sıfırının eriminin alt değerinden farkı.
+sıfır yüksekliği % zero elevation
+zero error % alt değer hatası. Belirli kullanma koşullarında çalışan bir aygıtın giriş değeri eriminde en alt değeri aldığı zamanki hata.
+alt değer hatası % zero error
+zero error of a measuring instrument % ölçme aygıtının sıfır hatası. Ölçülen büyüklüğün sıfır değerine karşılık gelen başlangıç hatası. 
+ölçme aygıtının sıfır hatası % Zero error of a measuring instrument
+zero-fill % sıfırlarla doldurma.
+sıfırlarla doldurma % zero-fill
+zero gravity % sıfır yerçekimi. Yörüngedeki bir uyduda merkezkaç kuvvetin yerçekimi etkisini tamı tamamına dengelemesi durumu.
+sıfır yerçekimi % zero gravity
+zero-input response % sıfır girdili tepki, başlangıç koşulu tepkisi. Bir sistemde sadece başlangıç koşullarındaki enerjiden kaynaklanan tepki.
+sıfır girdili tepki, başlangıç koşulu tepkisi – zero-input response
+zero knowledge proof % sır vermeyen tanıt. Bir kimlik tanılama probleminde bir yandan kesin tanıya erişilirken diğer yandan hiçbir bilginin dışarıya verilmemesi. 
+sıfır vermeyen tanıt % zero knowledge proof 
+zero level % referans düzeyi. Başka büyüklüklerin ona göreli olarak desibel ölçeğinde ifade edildiği gerilim, akım, güç vb. Düzeyi.
+referans düzeyi % zero level
+

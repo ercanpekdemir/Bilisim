@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Informatic Glossory version 1.0 Created by Ercan Pekdemir, Eren Önlü, Metin Çiftçi and Rıdvan Çakmak  mltcym@gmailcom" />
+        android:text="Informatic Glossory, Created by Ercan Pekdemir, mltcym@gmail.com" />
 
     <Button
         android:id="@+id/ok"
@@ -16,5 +16,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:text="Ok" />
+    
 
 </LinearLayout>

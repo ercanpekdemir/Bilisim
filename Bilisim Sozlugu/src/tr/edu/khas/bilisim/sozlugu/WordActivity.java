@@ -1,4 +1,5 @@
-package tr.edu.khas.bilisimsozlugu;
+package tr.edu.khas.bilisim.sozlugu;
+
 
 import android.app.Activity;
 import android.app.ActionBar;
@@ -17,7 +18,7 @@ import android.widget.Button;
 import android.widget.SearchView;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import com.google.ads.*;
 /**
  * Displays a word and its definition.
  */
@@ -27,6 +28,7 @@ public class WordActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+       
         setContentView(R.layout.word);
         favor=(Button)findViewById(R.id.favor);
         favor.setOnClickListener(new View.OnClickListener() {

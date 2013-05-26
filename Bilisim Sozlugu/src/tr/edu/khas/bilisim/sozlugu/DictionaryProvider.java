@@ -1,4 +1,4 @@
-package tr.edu.khas.bilisimsozlugu;
+package tr.edu.khas.bilisim.sozlugu;
 
 import android.app.SearchManager;
 import android.content.ContentProvider;

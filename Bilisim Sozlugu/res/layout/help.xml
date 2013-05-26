@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="The system takes the search query text (whatever has been typed so far) and performs a query. Then the system displays the list of suggestions" />
+        android:text="The system takes the search query text (whatever has been typed so far) and performs a query. Then the system displays the list of suggestions. If no suggestion exists, press enter to search on the net." />
 
     <Button
         android:layout_marginTop="5dp"

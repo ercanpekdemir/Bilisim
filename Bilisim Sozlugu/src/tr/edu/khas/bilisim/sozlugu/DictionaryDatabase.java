@@ -1,4 +1,4 @@
-package tr.edu.khas.bilisimsozlugu;
+package tr.edu.khas.bilisim.sozlugu;
 
 import android.app.SearchManager;
 import android.content.ContentValues;
@@ -19,6 +19,8 @@ import java.io.InputStreamReader;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetDecoder;
 import java.util.HashMap;
+
+
 
 /**
  * Contains logic to return specific words from the dictionary, and

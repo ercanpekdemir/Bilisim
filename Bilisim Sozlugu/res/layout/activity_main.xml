@@ -51,7 +51,7 @@
             android:id="@+id/text"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:background="#FF6103"
+            android:background="#63b6ab"
             android:singleLine="true"
             android:text="Use the search field to look up a word"
             android:textColor="#000"
